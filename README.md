@@ -53,7 +53,7 @@ Cada integrante del grupo realizó un análisis orientado a generar conocimiento
 
 ### Aporte: Daniel Palacios
 
-He contribuido al análisis de un dataset externo enfocado en la detección de contenido generado por Inteligencia Artificial frente a contenido humano. Este dataset es relevante en la actualidad debido al auge de modelos como ChatGPT, donde diferenciar entre contenido humano y automático se ha convertido en un reto. Mediante este análisis, buscamos aprender qué características lingüísticas son más representativas de cada tipo de contenido, aportando conocimiento a la ciberseguridad y la ética digital.
+Me llamó la atención el dataset "AI vs Human Content Detection" porque está directamente relacionado con los desafíos actuales del uso de inteligencia artificial en contextos educativos. Mientras que nuestro dataset original analiza cómo los estudiantes usan asistentes de IA en su vida académica, este nuevo dataset complementa la perspectiva al enfocarse en cómo se puede distinguir si un contenido fue generado por una IA o por un humano. Esto permite reflexionar sobre el uso ético de estas herramientas en la educación, la detección de plagio automatizado y el desarrollo de criterios para una convivencia responsable con tecnologías emergentes.
 
 ### Aporte: Juan Carlos Pardo
 
