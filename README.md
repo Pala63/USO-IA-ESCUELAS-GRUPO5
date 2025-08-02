@@ -55,14 +55,9 @@ Cada integrante del grupo realizó un análisis orientado a generar conocimiento
 
 Me llamó la atención el dataset "AI vs Human Content Detection" porque está directamente relacionado con los desafíos actuales del uso de inteligencia artificial en contextos educativos. Mientras que nuestro dataset original analiza cómo los estudiantes usan asistentes de IA en su vida académica, este nuevo dataset complementa la perspectiva al enfocarse en cómo se puede distinguir si un contenido fue generado por una IA o por un humano. Esto permite reflexionar sobre el uso ético de estas herramientas en la educación, la detección de plagio automatizado y el desarrollo de criterios para una convivencia responsable con tecnologías emergentes.
 
-### Aporte: Juan Carlos Pardo
-
-
-
-### Aporte: Felix Chancay
-
-
-
+## Aporte Juan Carlos Pardo
+Mi aporte en el trabajo es que los datasets tienen una mirada integral al impacto de la IA en el entorno estudiantil: uno desde el uso cotidiano y otro desde el análisis de los resultados que puede generar esa interacción.
+Adicional el dataset complementario tiene un punto de vista educativo, este dataset permite explorar cómo se manifiestan las diferencias entre la escritura humana y la generada por IA en el contexto académico. Por ejemplo, se puede examinar si los textos generados por IA presentan menor riqueza léxica, menor expresividad emocional o niveles más altos de “predictibilidad” frente a textos escritos por estudiantes reales.
 
 ### Fuente del dataset:
 AI vs Human Content Detection - Kaggle (2025)
@@ -73,6 +68,4 @@ https://www.kaggle.com/datasets/pratyushpuri/ai-vs-human-content-detection-1000-
 
 La integración de asistentes de IA en la educación no solo es inevitable, sino también deseada por los propios estudiantes. Esta herramienta, lejos de reemplazar el pensamiento crítico, puede potenciarlo. Entender sus patrones de uso y percepción nos permite anticipar cómo evolucionará la experiencia académica en los próximos años.
 
-## Aporte Juan Carlos Pardo
-Mi aporte en el trabajo es que los datasets tienen una mirada integral al impacto de la IA en el entorno estudiantil: uno desde el uso cotidiano y otro desde el análisis de los resultados que puede generar esa interacción.
-Adicional el dataset complementario tiene un punto de vista educativo, este dataset permite explorar cómo se manifiestan las diferencias entre la escritura humana y la generada por IA en el contexto académico. Por ejemplo, se puede examinar si los textos generados por IA presentan menor riqueza léxica, menor expresividad emocional o niveles más altos de “predictibilidad” frente a textos escritos por estudiantes reales.
+
