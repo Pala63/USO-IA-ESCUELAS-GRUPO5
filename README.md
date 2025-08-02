@@ -44,6 +44,13 @@ Puedes ejecutar todo el análisis y generar los gráficos en Google Colab con el
 
 📎 [Haz clic aquí para abrir en Colab](https://colab.research.google.com/drive/1QPjtZkh4X8F3VG7B__lhzRSitnCz3IFW#scrollTo=6edcca56)
 
+
+
+
+La verdad, me pareció súper interesante el dataset "AI vs Human Content Detection", porque trata un tema muy actual: cómo saber si un texto fue hecho por una persona o por una IA. Creo que esto es especialmente importante en el ámbito educativo, ya que ayuda a mantener la honestidad y a que los profesores puedan evaluar de forma más justa.
+
+Además, al compararlo con nuestro dataset original, que muestra cómo los estudiantes usamos la IA en el día a día, se forma una visión mucho más completa. No solo vemos cómo se utiliza la tecnología, sino también cómo se puede verificar ese uso. Me parece una buena base para pensar en nuevas formas de enseñar y evaluar, siempre con ética y aprovechando bien las herramientas tecnológicas.
+
 ---
 
 ## 💬 Reflexión Final
