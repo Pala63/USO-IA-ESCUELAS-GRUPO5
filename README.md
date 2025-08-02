@@ -45,6 +45,29 @@ Puedes ejecutar todo el análisis y generar los gráficos en Google Colab con el
 📎 [Haz clic aquí para abrir en Colab](https://colab.research.google.com/drive/1QPjtZkh4X8F3VG7B__lhzRSitnCz3IFW#scrollTo=6edcca56)
 
 ---
+## Aporte con Dataset Externo (AI vs Human Content Detection, 2025)
+
+Para este análisis se utilizó el dataset: [AI vs Human Content Detection - Kaggle (2025)](https://www.kaggle.com/datasets/pratyushpuri/ai-vs-human-content-detection-1000-record-in-2025)
+
+Cada integrante del grupo realizó un análisis orientado a generar conocimiento valioso sobre la detección de contenido generado por Inteligencia Artificial. A continuación, las contribuciones individuales:
+
+### Aporte: Daniel Palacios
+
+He contribuido al análisis de un dataset externo enfocado en la detección de contenido generado por Inteligencia Artificial frente a contenido humano. Este dataset es relevante en la actualidad debido al auge de modelos como ChatGPT, donde diferenciar entre contenido humano y automático se ha convertido en un reto. Mediante este análisis, buscamos aprender qué características lingüísticas son más representativas de cada tipo de contenido, aportando conocimiento a la ciberseguridad y la ética digital.
+
+### Aporte: Juan Carlos Pardo
+
+
+
+### Aporte: Felix Chancay
+
+
+
+
+### Fuente del dataset:
+AI vs Human Content Detection - Kaggle (2025)
+https://www.kaggle.com/datasets/pratyushpuri/ai-vs-human-content-detection-1000-record-in-2025
+
 
 ## 💬 Reflexión Final
 
