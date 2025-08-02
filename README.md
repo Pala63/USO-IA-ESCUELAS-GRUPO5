@@ -6,7 +6,7 @@ Este proyecto analiza el uso de asistentes de inteligencia artificial (IA) por p
 
 ## 📊 Visualización de los Resultados
 
-![Gráfico del Análisis](grafico_final.png)
+![Gráfico del Análisis](figures/grafico_final.png)
 
 ### Parámetros visualizados:
 
